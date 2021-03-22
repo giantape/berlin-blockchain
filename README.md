@@ -1,5 +1,5 @@
 # Berlin-blockchain
-lets try create a Blockchain for Berlin with nodejs and angular.
+lets try create a Blockchain with nodejs and angular.
 need collaborations, feel free to create a pull request.
 
 for now available APIS:
