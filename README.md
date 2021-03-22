@@ -17,7 +17,7 @@ frontend will be created with Angular.
 - to run test `npm run test`
 the application will run in localhost:3001
 
-### to testing with P2P with socket 
+### to testing P2P with socket 
 open terminal first window and run
 - npm run dev this will run in port 3001
 second window run:
